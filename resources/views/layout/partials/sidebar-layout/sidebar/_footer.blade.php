@@ -4,6 +4,6 @@
 		class="btn btn-flex flex-center btn-custom btn-primary overflow-hidden text-nowrap px-0 h-40px w-100"
 		data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss-="click"
 		title="200+ in-house components and 3rd-party plugins">
-		<span class="btn-label">Docs &amp; Components</span>{!! getSvgIcon('duotune/general/gen005.svg', 'svg-icon btn-icon svg-icon-2 m-0') !!}</a>
+		<!-- <span class="btn-label">Docs &amp; Components</span>{!! getSvgIcon('duotune/general/gen005.svg', 'svg-icon btn-icon svg-icon-2 m-0') !!}</a> -->
 </div>
 <!--end::Footer-->
