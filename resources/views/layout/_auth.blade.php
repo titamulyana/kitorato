@@ -38,7 +38,7 @@
                 <div class="d-flex flex-column flex-center w-100">
                     <!--begin::Logo-->
                     <a href="/" class="mb-5">
-                        <img alt="Logo" src="{{ image('logos/logo_bale_1.png') }}" class="h-100px h-lg-250px"/>
+                        <img alt="Logo" src="{{ image('logos/logo.jpeg') }}" class="h-100px h-lg-250px"/>
                     </a>
                     
                 </div>
